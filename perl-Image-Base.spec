@@ -15,7 +15,6 @@ Url:		http://search.cpan.org/dist/%{module}
 Buildrequires:	perl-devel
 %endif
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This class should not be used directly. Known inheritors are Image::Xbm and
