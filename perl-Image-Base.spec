@@ -1,9 +1,9 @@
 %define upstream_name	 Image-Base
-%define upstream_version 1.15
+%define upstream_version 1.16
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	%mkrel 2
+Release:	%mkrel 1
 
 Summary:	Base class for loading, manipulating and saving images
 License:	GPL+ or Artistic
