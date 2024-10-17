@@ -8,7 +8,7 @@ Release:	4
 Summary:	Base class for loading, manipulating and saving images
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://search.cpan.org/CPAN/authors/id/S/SU/SUMMER/%{upstream_name}-%{upstream_version}.tar.bz2
 
 BuildRequires:	perl-devel
